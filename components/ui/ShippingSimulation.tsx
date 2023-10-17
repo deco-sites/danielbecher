@@ -96,7 +96,7 @@ function ShippingSimulation({ items }: Props) {
       <div class="flex flex-col">
         <span>Calcular frete</span>
         <span>
-          Informe seu CEP para consultar os prazos de entrega
+          Informe o seu CEP para consultar o valor da entrega
         </span>
       </div>
 
